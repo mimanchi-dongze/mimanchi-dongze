@@ -22,19 +22,6 @@ class Jiaulo:
         return "探索 Transformer 与 CNN 在视觉和时序数据中的应用"
 ```
 
----
-
-## 📊 GitHub 统计  
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mimanchi-dongze&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimanchi-dongze&layout=compact&theme=tokyonight" />
-
-</div>
-
-
----
 
 ## 🔄 最近动态
 

@@ -27,7 +27,7 @@ class Jiaulo:
 ## 📊 GitHub 统计  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mimanchi-dongze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mimanchi-dongze&show_icons=true&theme=tokyonight&include_all_commits=true" />
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimanchi-dongze&layout=compact&theme=tokyonight" />
 
@@ -42,18 +42,6 @@ class Jiaulo:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimanchi-dongze&theme=tokyo-night" />
 
 </div>
-
----
-
-## 🐍 贪吃蛇贡献轨迹（自动更新）
-
-<div align="center">
-
-<img src="https://github.com/mimanchi-dongze/mimanchi-dongze/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 
 ## 📫 联系我

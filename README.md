@@ -27,11 +27,12 @@ class Jiaulo:
 ## 📊 GitHub 统计  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mimanchi-dongze&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  
+<img src="https://github-readme-stats.vercel.app/api?username=mimanchi-dongze&show_icons=true&theme=tokyonight" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimanchi-dongze&layout=compact&theme=tokyonight" />
 
 </div>
+
 
 ---
 

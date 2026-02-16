@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm **Jiaulo**
+# 👋 Hi there, I'm **VibeSeer**
 
 ### 🎓 Undergraduate Student | 🌱 Deep Learning Enthusiast
 
